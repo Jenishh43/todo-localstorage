@@ -15,11 +15,11 @@ body {
 }
 
 .container {
-  background: radial-gradient(circle at center, #1b2735 10%, #090a0f 100%);
+  background: radial-gradient(circle at center, #2f7c8354 10%, #090a0f 100%);
   padding: 40px;
   border-radius: 10px;
   width: 400px;
-  box-shadow: 0 0 00px rgba(1, 247, 255, 0.2);
+  box-shadow: 1px 3px 10px rgba(0, 247, 255, 0.722);
 }
 
 h1 {
